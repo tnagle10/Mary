@@ -9,6 +9,8 @@ namespace Mary
         [TestMethod]
         public void TestMethod1()
         {
+            Console.WriteLine("test");
+            Console.WriteLine("test");
         }
     }
 }
